@@ -6,7 +6,7 @@ int main()
     while (n<=10)
     
     {
-        sum = sum +n;
+        sum = sum + n;
         n++;
     }
 
