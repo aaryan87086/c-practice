@@ -26,5 +26,8 @@ int main ()
         printf("%d " , arr[i]);
 
     }
+
+    printf("\nName = Aaryan");
+    printf("\nRoll_no = 2556562");
     return 0;
 }
